@@ -1,5 +1,4 @@
 ﻿#Requires AutoHotkey v2.0
-; http://www.daveamenta.com/2011-05/programmatically-or-command-line-change-the-default-sound-playback-device-in-windows-7/
 ; https://web.archive.org/web/20190317012739/http://www.daveamenta.com/2011-05/programmatically-or-command-line-change-the-default-sound-playback-device-in-windows-7/
 
 List := EnumAudioEndpoints()
